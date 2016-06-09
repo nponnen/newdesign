@@ -11,3 +11,12 @@ body {
 	background:#FFC;
 	padding:50px;
 }
+.circle {
+	width:100px;
+	height:100px;
+	background:#f00;
+	color:#fff;
+	text-align:center;
+	line-height:100px;
+	margin:20px auto;
+}
